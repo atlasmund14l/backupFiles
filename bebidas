@@ -1,0 +1,19 @@
+{"elements":[
+    {
+    "name":"berillium",
+    "desc":"Alkail.",
+    "specs":[
+        {"avb":"rare"},
+        {"spec":"metal"}
+    ]
+},
+{
+    "name":"aluminum",
+    "desc":"ductile metal.",
+    "specs":[
+        {"avb":"usual"},
+        {"spec":"metal"}
+    ]
+}
+]
+}
