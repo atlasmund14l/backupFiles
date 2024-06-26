@@ -1,20 +1,5 @@
 {
-    "elements": [
-        {
-            "name": "beryllium",
-            "desc": "Alkali.",
-            "specs": [
-                {"avb": "rare"},
-                {"spec": "metal"}
-            ]
-        },
-        {
-            "name": "aluminum",
-            "desc": "Ductile metal.",
-            "specs": [
-                {"avb": "usual"},
-                {"spec": "metal"}
-            ]
-        }
-    ]
+    "gintonic":"https://github.com/microsoft/Microsoft365DSC/assets/29887404/bbb11a22-79ca-4cc4-ae62-5040048e3f83",
+    "whisky":"https://github.com/microsoft/Microsoft365DSC/assets/29887404/bbb11a22-79ca-4cc4-ae62-5040048e3f83"
+   
 }
